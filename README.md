@@ -1,4 +1,4 @@
-# java-web-mill-forked-mongo-repo-JAdventure
+# java-web-mill-spring-forked-mongo-repo-JAdventure
 
 ## Description
 A POC for REST web service using mongodb.
@@ -10,6 +10,7 @@ Uses spring's mongorepository.
 - java
 - mill
   - mongo connector
+  - spring
 - mongo
 
 ## Docker stack
